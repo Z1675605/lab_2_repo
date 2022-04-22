@@ -12,7 +12,14 @@ For my first map I gathered tweets from April 19th, and mapped the coordinates o
 description
 
 For my second map I gathered tweets from Aprin 20th, and mapped the coordinates of the tweets onto QGIS and exported my results:
-
 ![Map 2](/img/Lab_2_pt_2.png)
 
 description
+
+## 3) Comparing My Wordclouds
+
+Finally I exported the text for both my geotweets files into a wordcloup application and generated an image that represents the most commonly used words for that day, included below are the images for both April 19th and April 20th:
+![April 19 wordcloud](/img/Word_Art_1.png)
+1[April 20 wordcloud](/img/Word_Art_2.png)
+
+From looking at both images there are some differences that I have noticed, 
