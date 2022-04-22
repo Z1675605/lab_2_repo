@@ -7,7 +7,7 @@ For my lab assignment I decided to compare two different events in time rather t
 ## 2) Comparing My Maps
 
 For my first map I gathered tweets from April 19th, and mapped the coordinates of the tweets onto QGIS and exported my results:
-![Map 1](/img/lab_2_pt_1.png)
+![](/img/lab_2_pt_1.png)
 
 description
 
